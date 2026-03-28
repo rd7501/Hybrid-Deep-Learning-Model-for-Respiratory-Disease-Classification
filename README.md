@@ -162,9 +162,9 @@ This hybrid approach demonstrates the potential of deep learning in:
 - GPU acceleration is recommended for training (supports both CPU and GPU)
 - The notebook is compatible with Google Colab and local Jupyter environments
 
-## 📧 Contact & Support
+## 📧 Link For the trained model
 
-For questions or issues related to this project, please refer to the inline documentation in the notebook and the detailed summary provided in `summary.txt`.
+https://drive.google.com/file/d/1WGAnx7-0QvOwXcWOUDgMGNk7wsQL6IPZ/view?usp=drive_link
 
 ---
 
